@@ -10,7 +10,7 @@ const minHueShift = 30
 const speed = 10
 
 // A link to the image being used
-const image = "https://kw126.github.io/dvd-widget-assets/cone.png"
+const image = "https://kw126.github.io/dvd-widget/cone.png"
 
 /*-------------------------------------------------------------------------------------*/
 
